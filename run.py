@@ -470,7 +470,7 @@ def asep():
 |__|__|___|___|  _|    |_| |_____|___|___|  _|
               |_|                        |_|  
 
-[bold blue]                SUKAMAKAMUR[bold blue]""", title="[bold red]>[bold yellow]>[bold green]>[hot_pink2] SC GRATIS [bold green]<[bold yellow]<[bold red]<"))
+[bold blue]                SUKAMAKAMUR[bold blue]""", title="[bold red]>[bold yellow]>[bold green]>[hot_pink2] Pake aja nyet [bold green]<[bold yellow]<[bold red]<"))
 
 
 # -----------------------[ SYSTEM-CONTROL ]--------------------#
